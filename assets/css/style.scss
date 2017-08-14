@@ -1,9 +1,10 @@
 ---
 ---
 
+@import "{{ site.theme }}";
+
+
 /* Hide header with misleading github button */
 div#header {
     display: none;
 }
-
-@import "{{ site.theme }}";
