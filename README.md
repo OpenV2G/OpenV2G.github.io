@@ -41,12 +41,12 @@ components. The focus lies on the PKIs rather than on the
 _ISO/IEC 15118_ interface between car and infrastructure.
 
 For the project scopes on the individual roles see
-[/doc/roles-and-systems-list.csv](doc/roles-and-systems-list.csv).
+[/doc/roles-and-systems-list.csv](https://github.com/OpenV2G/OpenV2G-base/tree/master/doc/roles-and-systems-list.csv).
 
 
 # Architectual Overview
 
-![Interfaces and Systems](https://www.lucidchart.com/publicSegments/view/7acdcb73-da80-483d-ba33-0722b2a184a0/image.png)
+![Interfaces and Systems](assets/OpenV2G.png)
 
 
 
